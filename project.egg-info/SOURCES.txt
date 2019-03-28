@@ -1,4 +1,5 @@
 setup.py
+bin/hello.py
 books_crawler/__init__.py
 books_crawler/items.py
 books_crawler/middlewares.py
